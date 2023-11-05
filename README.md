@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile Game Development
 - 🌱 I’m currently learning Unreal Engine
 - 💞️ I’m looking to collaborate on Anything I Interested
-- 📫 How to reach me NONE
+- 📫 How to reach me lutherakn@gmail.com
 
 <!---
 Askan28/Askan28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
