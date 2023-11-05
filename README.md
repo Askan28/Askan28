@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Askan28
-- 👀 I’m interested in Your Mom
+- 👀 I’m interested in ANYTHING RELATED TO CS
 - 🌱 I’m currently learning Cyber Security, Binary Exploitation
 - 💞️ I’m looking to collaborate on Anything I Interested
 - 📫 How to reach me NONE
